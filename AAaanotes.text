@@ -1,0 +1,9 @@
+->static variables aree stored in metaspace
+->metaspace is place where the all the information about the class is stored like how many variables in the class and static variables are also stored in meta space 
+ metaspace is not a part of heap memory and initially the name of the metaspace is permanent Generation
+ ->all static data and static variables and meta data is being stored .
+ ->execution of the method is done in stack
+ ->the mwtaspace memoryy is not fixed it flexible and can increase by size.
+   
+   
+    
